@@ -1,0 +1,9 @@
+# Frontend
+/worksight/node_modules
+/worksight/.angular
+/worksight/.vscode
+
+# Backend
+/worksight-api/node_modules
+/worksight-api/dist
+/worksight-api/vendor
